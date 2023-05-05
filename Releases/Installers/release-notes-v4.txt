@@ -1,0 +1,11 @@
+Version 4: released Apr 10, 2023
+Notes:
+- Users can now open notes from groups for easier access.
+- Added a license to the application.
+- Enhanced the import files feature for easier importing.
+- Created an installer for easier installation.
+- Added the ability to save and delete groups.
+- Implemented a webservice for syncing notes across devices.
+- Added hotkeys for quicker access to frequently used functions.
+- Implemented exception handling to improve application stability.
+- Other various final touches
